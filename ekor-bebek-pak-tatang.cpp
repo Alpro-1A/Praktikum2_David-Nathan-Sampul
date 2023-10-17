@@ -8,7 +8,7 @@ int main() {
     cout << "Ekor Bebek Pak Tatang: ";
     cin >> N;
     
-    cout << "Dibagi dengan orang temannya: ";
+    cout << "Dibagi ke temannya: ";
     cin >> M;
     
 
